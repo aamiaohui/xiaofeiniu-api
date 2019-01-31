@@ -1,5 +1,5 @@
 /*
-* 菜品类别相关的路由
+*菜品类别相关的路由
 */
 //创建路由器
 const express = require('express');

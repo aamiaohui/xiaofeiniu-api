@@ -5,32 +5,30 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./index.js",
+    "start": "node  ./index.js",
     "dev": "node-dev  ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aamiaohui/xiaofeiniu-api.git"
+    "url": "git+https://github.com/web1808/xiaofeiniu-api.git"
   },
   "keywords": [
     "小肥牛",
-    "xuaifeiniu",
+    "xiaofeiniu",
     "扫码",
     "点餐"
   ],
-  "author": "MiaoHuiChao",
+  "author": "Li Wenhua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aamiaohui/xiaofeiniu-api/issues"
+    "url": "https://github.com/web1808/xiaofeiniu-api/issues"
   },
-  "homepage": "https://github.com/aamiaohui/xiaofeiniu-api#readme",
+  "homepage": "https://github.com/web1808/xiaofeiniu-api#readme",
   "dependencies": {
-    "body": "^5.1.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "multer": "^1.4.1",
-    "mysql": "^2.16.0",
-    "parser": "^0.1.4"
+    "mysql": "^2.16.0"
   }
 }
